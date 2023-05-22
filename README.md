@@ -22,7 +22,7 @@
 
 ## Also you can easily look at the output of both programs on google disk
 
-link: https://drive.google.com/drive/folders/1cVdlrc3CQUvWZMFD0-aYplmshm0Z52Ru?usp=share_link
+link: https://drive.google.com/drive/folders/1cVdlrc3CQUvWZMFD0-aYplmshm0Z52Ru?usp=sharing
 
 main.py -> out_simple.mkv
 
