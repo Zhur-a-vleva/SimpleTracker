@@ -6,10 +6,14 @@
 
 2. Go to the SimpleTracker folder
 
-3. Run main.py file, which contains simple tracker and transport detection with YOLOv5
+3. Install the requirements
+
+`pip3 install -r requirements.txt`
+
+4. Run main.py file, which contains simple tracker and transport detection with YOLOv5
 
 `python.exe main.py`
 
-4. Run open_vino_version.py file, which contains another implementation of the task and uses OpenVino pre-trained model vehicle-detection-adas-0002 
+5. Run open_vino_version.py file, which contains another implementation of the task and uses OpenVino pre-trained model vehicle-detection-adas-0002 
 
 `python.exe open_vino_version.py`
