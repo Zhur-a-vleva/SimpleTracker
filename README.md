@@ -12,4 +12,4 @@
 
 4. Run open_vino_version.py file, which contains another implementation of the task and uses OpenVino pre-trained model vehicle-detection-adas-0002 
 
-`python.exe open_vino_version.pyc dcd`
+`python.exe open_vino_version.py`
